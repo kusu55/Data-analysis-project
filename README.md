@@ -22,5 +22,4 @@ Detailed analysis to uncover trends and insights.
 Visual representation of the findings to facilitate better understanding.
 
 ## Acknowledgements
-Data Source: [COVID-19 ](https://raw.githubusercontent.com/SR1608/Datasets/main/covid-
-data.csv)Dataset
+Data Source: [COVID-19 ](https://raw.githubusercontent.com/SR1608/Datasets/main/covid-data.csv)Dataset
